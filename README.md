@@ -2,18 +2,16 @@
 
 by Leo Wu 2021
 
-Examples adapted from [OpenCV-Python Tutorials](https://docs.opencv.org/3.4.2/d6/d00/tutorial_py_root.html)
+## OpenCV examples for MTRN4110 20T2 Lecture Vision I (Examples adapted from [OpenCV-Python Tutorials](https://docs.opencv.org/3.4.2/d6/d00/tutorial_py_root.html))
 
-OpenCV examples for MTRN4110 20T2 Lecture Vision I
+### Content
 
-Content
+#### -Pixels
 
--Pixels
+#### -Perspective transformations
 
--Perspective transformations
+#### -Colour spaces
 
--Colour spaces
+#### -Thresholding
 
--Thresholding
-
--Morphological operations
+#### -Morphological operations
